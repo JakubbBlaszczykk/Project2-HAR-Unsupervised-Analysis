@@ -1,0 +1,14 @@
+# 1. DATA FOLDERS
+UCI HAR Dataset/
+
+# 2. SYSTEM FILES AND TEMPORARY OUTPUT
+.DS_Store
+Thumbs.db
+*.log
+
+# 3. PYTHON / JUPYTER / VIRTUAL ENVIRONMENTS
+*.ipynb_checkpoints/
+__pycache__/
+*.pyc
+venv/
+env/
